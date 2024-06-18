@@ -1,7 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hi%there!%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h2 align="left">Hi 👋! My name is David and I'm a Back End Developer, I'm passionate about catalyse change through Technology.</h2>
 
-<h2 align="left">Hi 👋! My name is David and I'm a Back End Developer, I'm passionate about catalyse change through Technology.</h2>
 
 ###
 
