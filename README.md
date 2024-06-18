@@ -1,6 +1,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hi%there!%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h2 align="left">Hi 👋! My name is David and I'm a Back End Developer, I'm passionate about catalyse change through Technology.</h2>
 
+<h2 align="left">Hi 👋! My name is David and I'm a Back End Developer, I'm passionate about catalyse change through Technology.</h2>
+
 ###
 
 <div align="center">
@@ -29,20 +31,19 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/posts/diego-rodríguez-david-35297310b_linkedin-ti-ciberseguridad-activity-7189681550404333568-_M5E/?utm_source=share&utm_medium=member_desktop" target="_blank">
+  <a href="https://www.linkedin.com/in/david-herrera-back-developer/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:dalejoherrera3001@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/davhx03/davhx03/output/snake.svg" alt="Snake animation" />
+<img src="" />
 
 ###
 
