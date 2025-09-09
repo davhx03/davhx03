@@ -1,6 +1,27 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hi%there!%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hi%20there!%20✨&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h2 align="left">Hi 👋! My name is David and I'm a Back End Developer, I'm passionate about catalyse change through Technology.</h2>
 
+
+---
+Back End Developer | Systems Engineer | Java | Spring boot | MySQL | Trilingual
+
+## 🛠️ Skills
+- **Programming Languages:** Java  
+- **Databases:** MySQL  
+- **Frameworks & Tools:** Spring Boot, Gradle, Spring Security, Spring Initializr  
+- **Version Control:** Git / GitHub  
+
+---
+
+## 💡 Soft Skills
+- Leadership  
+- Communication  
+- Teamwork  
+
+---
+
+## 🚀 Goals
+Focused on **continuous learning** and **constant improvement** to contribute high-quality solutions.  
 
 ###
 
